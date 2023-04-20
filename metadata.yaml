@@ -1,0 +1,39 @@
+_repo: The-Abbey-of-St-Albans-from-1300-to-the-dissolution-of-the-monasteries-b-The-Stanhope-essay-1__70381
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Galbraith, V. H. (Vivian Hunter)
+    aliases:
+    - Galbraith, Vivian Hunter
+    - Galbraith, Vivian H.
+    birthdate: 1889
+    deathdate: 1976
+    gutenberg_agent_id: '55738'
+    url: http://www.gutenberg.org/2009/agents/55738
+    wikipedia: https://en.wikipedia.org/wiki/Vivian_Hunter_Galbraith
+description: ''
+gutenberg_issued: '2023-03-26'
+identifiers:
+  gutenberg: '70381'
+  lccn: '12012709'
+language: en
+pgterms:marc905: 20230112183025galbraith
+pgterms:marc906: '1911'
+pgterms:marc907: GB
+production_note: Charlie Howard and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bB. H. Blackwell, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'St. Albans Abbey'
+- !lcsh 'Monasticism and religious orders -- England -- St. Albans -- History -- Middle
+  Ages, 600-1500'
+- !lcsh 'Monastic and religious life -- England -- St. Albans -- History -- Middle
+  Ages, 600-1500'
+- !lcc 'BX'
+- GITenberg
+title: 'The Abbey of St. Albans from 1300 to the dissolution of the monasteries :
+  $b The Stanhope essay, 1911'
+url: http://www.gutenberg.org/ebooks/70381
