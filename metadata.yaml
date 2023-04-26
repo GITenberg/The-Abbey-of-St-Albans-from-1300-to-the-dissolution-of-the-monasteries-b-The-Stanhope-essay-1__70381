@@ -1,5 +1,8 @@
 _repo: The-Abbey-of-St-Albans-from-1300-to-the-dissolution-of-the-monasteries-b-The-Stanhope-essay-1__70381
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70381-h/images/cover.jpg
 creator:
   author:
     agent_name: Galbraith, V. H. (Vivian Hunter)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55738
     wikipedia: https://en.wikipedia.org/wiki/Vivian_Hunter_Galbraith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70381#The-Abbey-of-St-Albans-from-1300-to-the-dissolution-of-the-monasteries-b-The-Stanhope-essay-1_
 gutenberg_issued: '2023-03-26'
 identifiers:
   gutenberg: '70381'
